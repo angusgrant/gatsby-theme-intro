@@ -35,7 +35,7 @@ https://weeby.studio/intro/preview
 mkdir my-site
 cd my-site
 yarn init -y
-yarn add gatsby react react-dom @wkocjan/gatsby-theme-intro
+yarn add gatsby@2.32.9 react react-dom @wkocjan/gatsby-theme-intro
 ```
 
 ### Enable theme
